@@ -1,0 +1,3 @@
+[submodule "mscustomer"]
+	path = mscustomer
+	url = https://github.com/BernardoWitkoski/mscustomer.git
