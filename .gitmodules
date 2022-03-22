@@ -1,3 +1,6 @@
 [submodule "mscustomer"]
 	path = mscustomer
 	url = https://github.com/BernardoWitkoski/mscustomer.git
+[submodule "mscatalog"]
+	path = mscatalog
+	url = https://github.com/BernardoWitkoski/mscatalog.git
