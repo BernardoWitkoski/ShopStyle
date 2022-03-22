@@ -7,3 +7,6 @@
 [submodule "mscheckout"]
 	path = mscheckout
 	url = https://github.com/BernardoWitkoski/mscheckout
+[submodule "mshistory"]
+	path = mshistory
+	url = https://github.com/BernardoWitkoski/mshistory.git
