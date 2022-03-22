@@ -10,3 +10,6 @@
 [submodule "mshistory"]
 	path = mshistory
 	url = https://github.com/BernardoWitkoski/mshistory.git
+[submodule "msbff-shop"]
+	path = msbff-shop
+	url = https://github.com/BernardoWitkoski/msbff-shop.git
