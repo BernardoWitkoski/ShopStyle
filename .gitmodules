@@ -4,3 +4,6 @@
 [submodule "mscatalog"]
 	path = mscatalog
 	url = https://github.com/BernardoWitkoski/mscatalog.git
+[submodule "mscheckout"]
+	path = mscheckout
+	url = https://github.com/BernardoWitkoski/mscheckout
