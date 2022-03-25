@@ -10,3 +10,6 @@
 [submodule "msbff-shop"]
 	path = msbff-shop
 	url = https://github.com/BernardoWitkoski/msbff-shop.git
+[submodule "mscustomer"]
+	path = mscustomer
+	url = https://github.com/BernardoWitkoski/mscustomer.git
